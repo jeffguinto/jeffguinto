@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Jefferson Guinto
+- 👀 I’m interested in frontend development
+- 🌱 I’m currently learning HTML CSS JAVASCRIPT
